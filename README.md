@@ -16,3 +16,6 @@ Device Profile 1.39 gave me the modbus fuctionality I needed.
 
 I have included Device Profile 1.49 and 1.52 but they will not load into my Webbox so use at your own risk.
 
+The profile 1.49 PDF details the changelog up to and including 1.49 so if your inverter is listed added at 1.39 or before 
+
+then you only need Device Profile 1.39
