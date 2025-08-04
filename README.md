@@ -4,7 +4,7 @@ Depositry of Firmware and Device Profile files for the SMA Webbox.
 
 Note that none of these files are for the Bluetooth version of the Webbox.
 
-I have collected these files to enable my Webbox to work with the Sunny Island SI5048 Modbus
+I have collected these files to enable my Webbox to work with the Sunny Island SI5048 Modbus, thanks to the original posters 
 
 To be able to update the Device Profile you first need to upgrade the firmware to 1.53F12
 
